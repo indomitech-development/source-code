@@ -1,0 +1,8 @@
+.blog-post{
+    font-size:16.75px;
+}
+@media  screen and (max-width:760px) {
+    .sociallinks{
+        margin-left:43%;
+    }
+}

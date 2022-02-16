@@ -1,0 +1,18 @@
+.font-size{
+  font-weight: bold;
+  font-size:15px;
+}
+
+
+@media screen and (max-width:1200px){
+    .card-width{
+        margin-left:0px!important;
+    }
+}
+@media screen and (max-width:760px){
+    .card-image{
+       width:70%;
+       margin-left: 15%!important;
+
+    }
+}
